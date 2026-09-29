@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Adityagarg863/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityagarg863/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Adityagarg863/Leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Adityagarg863/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Adityagarg863/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Adityagarg863/Leetcode/tree/master/0169-majority-element) |
 | [0981-time-based-key-value-store](https://github.com/Adityagarg863/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Binary Search
