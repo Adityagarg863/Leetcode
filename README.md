@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adityagarg863/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Adityagarg863/Leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Adityagarg863/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityagarg863/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adityagarg863/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0981-time-based-key-value-store](https://github.com/Adityagarg863/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Design
 |  |
