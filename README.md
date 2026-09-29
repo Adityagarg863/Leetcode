@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Adityagarg863/Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityagarg863/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0981-time-based-key-value-store](https://github.com/Adityagarg863/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/Adityagarg863/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Adityagarg863/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -55,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Adityagarg863/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/Adityagarg863/Leetcode/tree/master/0981-time-based-key-value-store) |
+## Binary Search
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/Adityagarg863/Leetcode/tree/master/0981-time-based-key-value-store) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/Adityagarg863/Leetcode/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
