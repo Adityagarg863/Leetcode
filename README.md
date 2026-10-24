@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityagarg863/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Adityagarg863/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adityagarg863/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Adityagarg863/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1929-concatenation-of-array](https://github.com/Adityagarg863/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adityagarg863/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3640-trionic-array-ii](https://github.com/Adityagarg863/Leetcode/tree/master/3640-trionic-array-ii) |
